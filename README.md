@@ -10,5 +10,6 @@ To do list:
 - Select by id/name/year/type
 - Delete by id
 - Sort by id/year/dateAdded
+- Standardize responses
  
 

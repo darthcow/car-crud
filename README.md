@@ -11,5 +11,6 @@ To do list:
 - Delete by id
 - Sort by id/year/dateAdded
 - Standardize responses
+- Comment every notable code
  
 

@@ -12,5 +12,6 @@ To do list:
 - Sort by id/year/dateAdded
 - Standardize responses
 - Comment every notable code
+- Implement Unit Tests
  
 

@@ -13,5 +13,6 @@ To do list:
 - Standardize responses
 - Comment every notable code
 - Implement Unit Tests
+- Implement Swagger
  
 
